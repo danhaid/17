@@ -1,0 +1,4 @@
+1. mkdir ~/directoryname
+2. cd ~/directoryname
+3. git init
+4. git status
